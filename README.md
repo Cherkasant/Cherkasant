@@ -1,8 +1,5 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Anton Cherkas</a>'s Profile 👋</h1>
-</p>
-<p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=20&lines=Welcome+to+Anton+Cherkas+GitHub+Profile!;I'm+a+Front+end+developer" /></a>
 </p>
 <img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 <h2>🚀 Tech stack</h2>
